@@ -1,0 +1,4 @@
+datapath	MASH_combined.csv
+dropid	pilotpid
+ycol	Cocain_Use
+cleanup	cleanups.txt

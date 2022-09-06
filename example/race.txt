@@ -1,0 +1,4 @@
+White	1
+Black	0
+BlackIsraelite	0
+Latina	1

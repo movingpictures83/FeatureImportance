@@ -1,0 +1,2 @@
+Prefix plugins/FeatureImportance/example
+Plugin FeatureImportance inputfile parameters.txt outputfile none
